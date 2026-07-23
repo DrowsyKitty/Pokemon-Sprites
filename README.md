@@ -1,3 +1,3 @@
 # Pokemon-Sprites
 
-Section 24 Mini Assignment. Test
+Section 24 Mini Assignment. 
